@@ -18,7 +18,7 @@ uv add openai-agents python-decouple
 
 ### 3. Configure Environment Variables
 Create a .env file in the root directory with the following content: env
-GEMINI_API_KEY=your_gemini_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here                                                                                             
 base_url=https://your-gemini-api-base-url.com
 
 
