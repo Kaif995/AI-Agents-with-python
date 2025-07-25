@@ -1,4 +1,4 @@
-# 🤖 AI Assistant Runner
+# 🤖 AI Assistant Runner Guide
 
 This project runs an AI agent using the `openai-agents` library and Gemini 2.5 Flash model to provide helpful responses to user input.
 
